@@ -1,0 +1,29 @@
+.weather-in-map {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    width: 800px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+.map-card {
+    width: 200px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+    justify-content: center;
+}
+
+.weather-maps h2 {
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 20px;
+    width: 800px;
+}
+
+.map-card p {
+    color: #09f;
+}
